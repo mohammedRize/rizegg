@@ -1,20 +1,7 @@
-import "@/styles/globals.css";
-
 export default function Home() {
   return (
     <body>
       <div>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin=""
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap"
-          rel="stylesheet"
-        />
-
         <div
           className="flex font-['Oxanium'] text-sm/4.5 h-screen text-gr-light bg-center "
           style={{ backgroundImage: "url('Background.png')" }}
